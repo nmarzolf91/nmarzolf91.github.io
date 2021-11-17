@@ -2,7 +2,7 @@
 title: "Ecosystem metabolism in tropical streams and rivers: a review and synthesis"
 collection: publications
 permalink: /publication/2021-02-10-tropical_metabolism
-excerpt: ''
+excerpt: 
 date: 2021-02-10
 venue: "Limnology and Oceanography"
 paperurl: "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11707"
