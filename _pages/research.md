@@ -12,10 +12,6 @@ I am interested in inorganic carbon in streams: where it comes from, how it expo
 
 Methods advances takes advantage of high-frequency sensors for dissolved gases, CO2 and O2. O2 is used to estimate GPP and ER, taking advantage of O2 evolution during photosynthesis and consumption during respiration. Various models esimate GPP and ER from O2 data. CO2 sensors measure total CO2 and estimate CO2 evaded to the atmosphere. Both of these methods rely on accurate estimates of gas exchange, of which there are various empirical, scaling, and imputation methods. 
 
+Evasion of CO2 from freshwaters is an under-studied flux of C to the atmosphere with a wide variability. I aim to continue measurements of CO2 evasion from freshwaters, as well as other important greenhouse gases (CH4, N2O).
+
 I aim to expand on O2 and CO2 data collection in conjunction with empirical estimates of gas exchange rates. Measuring ecosystem metabolism and carbony cycling in freshwaters is a comprehensive and integrative method. It relies on accuracy in hydrology, sensors, ecological processes, and evaluating spatiotemporal variation. GPP and ER are metrics of ecosystem function that can be informative in evaluting stream health and comparisons across sites.
-
-Disturbances in headwater streams
-=====
-
-Novel ecosystems of the southeast US
-=====
