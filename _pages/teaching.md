@@ -13,9 +13,9 @@ Mentor in the OTS REU program (2018, 2019, 2021)
 
 Classes Taught
 =====
-Instructor: ENV 100 (Spring 2021)- Student Success in Environmental First Year, College of Natural Resources, North Carolina State
-Lead TA: ENV 101 (Fall 2020)- Exploring the Environment, College of Natural Resources, North Carolina State
-TA: ENV 101 (Fall 2019)- Exploring the Environment, College of Natural Resources, North Carolina State
+Instructor: ENV 100 (Spring 2021)- Student Success in Environmental First Year, College of Natural Resources, North Carolina State  
+Lead TA: ENV 101 (Fall 2020)- Exploring the Environment, College of Natural Resources, North Carolina State  
+TA: ENV 101 (Fall 2019)- Exploring the Environment, College of Natural Resources, North Carolina State  
 
 Workshop Instruction
 =====
