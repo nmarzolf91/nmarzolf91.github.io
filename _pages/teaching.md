@@ -7,9 +7,13 @@ author_profile: true
 
 Mentoring Experience
 =====
-Mentor in the OTS REU program (2018, 2019, 2021)
-- Directly or co-mentored 5 undergraduate students
-- Develop individual research projects with students
+- Mentor in the OTS REU program (2018, 2019, 2021)  
+  - Directly or co-mentored 5 undergraduate students  
+  - Develop individual research projects with students  
+- Mentor, Instar Program, Society for Freshwater Science  
+  - 2021 Annual Meeting    
+
+
 
 Classes Taught
 =====
